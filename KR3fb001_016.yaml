@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb001/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲申乙亥乙未乙卯癸亥辛卯辛亥辛未壬寅丁未丁卯丁亥辛巳癸亥癸未癸卯庚申己卯己亥己未己亥乙未乙卯乙亥戊寅辛亥辛未辛卯丁巳丁卯丁亥丁未丙申癸未癸卯癸亥乙亥己亥己未己卯甲寅乙卯乙亥乙未癸巳辛未辛卯辛亥壬申丁亥丁未丁卯辛亥癸卯癸亥癸未庚寅己未己卯己亥案此蔀遂之名為顓頊曆正法日起己巳年起乙卯也嘫以推校秦漢之際閏朔多不合秦用顓頊曆蓋年起乙卯而日起丁卯雜采它法以成之非純用顓
+  hash: sha256:63b33af8f4bf72f0710c3fc907ea69dd0ea5cb4870336fbaddd231b11f10707e
+metadata:
+  title: 顓頊曆考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb001.xml
+hash: sha256:171ae3101390b57370ec19cb7cd33ab1ab3d2b4543bd1c6c7cbd2d4ab2f498e7

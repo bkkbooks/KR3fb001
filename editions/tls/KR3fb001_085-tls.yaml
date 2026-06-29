@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb001/tls/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 顓頊曆考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb001.xml
+hash: sha256:c34076271b7a235d7ea015eb9d2bcfb6ba16da9b8d1d43fa5378b528e4ac3c7c

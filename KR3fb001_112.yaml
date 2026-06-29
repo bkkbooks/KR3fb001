@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb001/tls/v1/juan/112
+seq: 112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正月小庚子二月大己巳三月小己亥四月大戊辰五月小戊戌六月大丁卯七月小丁酉八月大丙寅九月小丙申十月大乙丑十一月小乙未即大初歲前之閏月大初元年十一月甲子朔旦冬至五行志十一月乙酉夏五月正曆顓頊曆大初歲前無閏其十一月二十七日辛酉夜半冬至顓頊曆命日起寅初實壬戌夜半也入夜半小餘一少十二月甲子平旦後小餘百九合朔大初曆以大初元年為蔀首無大餘無小餘無大餘無小餘而以夜半命日是棄顓頊曆氣節之大餘一小餘三十大朔小餘二百六十一大也此㒳曆相續之際故𦯞論之
+  hash: sha256:2b6abff3f838b3bba6141057fd4310f8dbb77ee57d26447e1d433f0b3c34c854
+metadata:
+  title: 顓頊曆考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb001.xml
+hash: sha256:3824ceecc74a75b19daa6aa1d564f816c63d28d3497b0c986270c724cd1d84fc
