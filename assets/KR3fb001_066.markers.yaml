@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb001_tls_001-p33.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup31, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 3, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fb001_tls_001-p33.s2.1}
   - {type: line-break, offset: 11, content: '', id: KX_2_dup33, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg-start', offset: 14, content: '', id: KR3fb001_tls_001-p33.s2.2, seg_type: comm, member_ids: [KR3fb001_tls_001-p33.s2.2]}
@@ -81,6 +82,7 @@ markers:
   - {type: line-break, offset: 91, content: '', id: KR3fb001_tls_066-bkklb14}
   - {type: 'tls:seg-end', offset: 92, content: '', id: KR3fb001_tls_001-p33.s6.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 92, content: '', id: KR3fb001_tls_001-p33.s6.3}
+  - {type: substitution, offset: 94, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fb001_tls_001-p33.s7.1}
   - {type: line-break, offset: 99, content: '', id: KX_7_dup32, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg-start', offset: 101, content: '', id: KR3fb001_tls_001-p33.s7.2, seg_type: comm, member_ids: [KR3fb001_tls_001-p33.s7.2]}
@@ -237,4 +239,4 @@ markers:
   - {type: 'tls:seg', offset: 289, content: '', id: KR3fb001_tls_001-p33.s19}
   - {type: line-break, offset: 289, content: '', id: KX_19_dup32, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:adfc024ff8c15c9396089e970ad4390a91bb9ac6012b34447ddda1fbf5ae9112
+hash: sha256:e7ca657745d49f6299faa8acdf2313a0a551ed8ab7e6bf70af8700dc26cc6d74

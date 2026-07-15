@@ -210,12 +210,14 @@ markers:
   - {type: 'tls:seg-end', offset: 224, content: '', id: KR3fb001_tls_001-p32.s14.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 224, content: '', id: KR3fb001_tls_001-p32.s15.1}
   - {type: line-break, offset: 224, content: '', id: KX_15_dup31, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 228, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: 'tls:seg-start', offset: 235, content: '', id: KR3fb001_tls_001-p32.s15.2, seg_type: comm, member_ids: [KR3fb001_tls_001-p32.s15.2]}
   - {type: 'tls:seg', offset: 235, content: '', id: KR3fb001_tls_001-p32.s15.2}
   - {type: line-break, offset: 237, content: '', id: KR3fb001_tls_064-bkklb39}
   - {type: 'tls:seg-end', offset: 239, content: '', id: KR3fb001_tls_001-p32.s15.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 239, content: '', id: KR3fb001_tls_001-p32.s16}
   - {type: line-break, offset: 239, content: '', id: KX_16_dup31, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 242, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: 'tls:seg', offset: 249, content: '', id: KR3fb001_tls_001-p32.s17.1}
   - {type: line-break, offset: 249, content: '', id: KX_17_dup31, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg-start', offset: 252, content: '', id: KR3fb001_tls_001-p32.s17.2, seg_type: comm, member_ids: [KR3fb001_tls_001-p32.s17.2]}
@@ -279,4 +281,4 @@ markers:
   - {type: 'tls:seg', offset: 309, content: '', id: KR3fb001_tls_001-p32.s19.8}
   - {type: line-break, offset: 310, content: '', id: KR3fb001_tls_064-bkklb51}
   back: []
-hash: sha256:107244a6899394b92f36ae6da5910a1480da259ed3a18a522951f529bf83481c
+hash: sha256:c14a1cf2184f0c7dc02f428377054de53fbeaa9d1bcde9e844db06c125934014

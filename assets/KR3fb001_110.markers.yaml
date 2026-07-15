@@ -251,5 +251,6 @@ markers:
   - {type: 'tls:seg-end', offset: 301, content: '', id: KR3fb001_tls_001-p55.s18.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 301, content: '', id: KR3fb001_tls_001-p55.s19}
   - {type: line-break, offset: 301, content: '', id: KX_19_dup54, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: substitution, offset: 303, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   back: []
-hash: sha256:3b5675bec742cb380f1d9948ba241edcf52f1fc11cf3984979fb13e0d05061e6
+hash: sha256:b15d53129a572e3da8516caa5a1e0a52ce5709077ffb0bf15f18a76afef478bb

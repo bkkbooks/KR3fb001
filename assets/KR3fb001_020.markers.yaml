@@ -32,6 +32,7 @@ markers:
   - {type: line-break, offset: 80, content: '', id: KR3fb001_tls_020-bkklb3}
   - {type: 'tls:seg-end', offset: 81, content: '', id: KR3fb001_tls_001-p10.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fb001_tls_001-p10.s8.2}
+  - {type: substitution, offset: 87, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: 'tls:seg-start', offset: 94, content: '', id: KR3fb001_tls_001-p10.s8.3, seg_type: comm, member_ids: [KR3fb001_tls_001-p10.s8.3]}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3fb001_tls_001-p10.s8.3}
   - {type: line-break, offset: 96, content: '', id: KR3fb001_tls_020-bkklb4}
@@ -83,6 +84,8 @@ markers:
   - {type: 'tls:seg', offset: 179, content: '', id: KR3fb001_tls_001-p10.s13.4}
   - {type: 'tls:seg', offset: 181, content: '', id: KR3fb001_tls_001-p10.s14}
   - {type: line-break, offset: 181, content: '', id: KX_14_dup10, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 189, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16197}}
+  - {type: substitution, offset: 193, original: 厤, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16197}}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fb001_tls_001-p10.s15}
   - {type: line-break, offset: 200, content: '', id: KX_15_dup10, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 201, content: '', id: KR3fb001_tls_001-p10.s16}
@@ -150,4 +153,4 @@ markers:
   - {type: 'tls:seg', offset: 275, content: '', id: KR3fb001_tls_001-p10.s19.8}
   - {type: line-break, offset: 276, content: '', id: KR3fb001_tls_020-bkklb24}
   back: []
-hash: sha256:1c0c32697cd4ba4fe6ee4eb8ca2b223cdc6234eb83eb8b4cba68158ace4957d1
+hash: sha256:5f0c8933149a0e6d5006c2df87ad5e5931ff72d37f6993d07c29bc1e18875984
